@@ -1,0 +1,22 @@
+{
+  "name": "proyecto-integrador-web-untref",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayarachi/proyecto-integrador-web-untref.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayarachi/proyecto-integrador-web-untref/issues"
+  },
+  "homepage": "https://github.com/ayarachi/proyecto-integrador-web-untref#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
