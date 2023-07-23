@@ -9,11 +9,31 @@ img {
   display: block;
 }
 
-.header-titulo {
-  background-image: url("../assets/img.jpeg");
-  background-position: center;
-  background-size: cover;
-  height: 50rem;
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.bg-personal {
+  background-color: #fc7300;
+}
+
+.carousel-caption {
+  text-align: center;
+  color: black;
+}
+
+.main {
+  padding: 30px;
+}
+
+.footer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.footer.div-footer-redes {
+  display: flex;
 }
 
 /*# sourceMappingURL=style.css.map */
